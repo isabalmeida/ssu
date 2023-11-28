@@ -1,8 +1,11 @@
 # Agendamento Saúde Único 
+<img src="https://github.com/mborges007/ssu/assets/105829441/1c20336a-c50a-4c86-8e50-5d38479089c0" width="250"/>
+
+
 Projeto Integrador do 2º semestre da FATEC Araras | Tema: Saude e bem estar
 
 # Objetivo 
-Em desenvolvimento
+O projeto consiste no desenvolvimento de um programa que pretende dar suporte ao Sistema Único de Saúde (SUS), no agendamento de consultas e exames, fornecendo informativos sobre calendário de vacinação, campanhas de saúde e outras informações que são importantes para a população. Nosso programa oferecerá recursos que permitirá aos usuários realizar agendamentos de consultas e exames de forma rápida e precisa sendo muito útil para aqueles que tem dificuldades em conseguir atendimento médico em curto tempo e diminuindo filas e burocracias
 
 ## Tecnologias utilizadas
 
@@ -20,7 +23,10 @@ src="https://www.svgrepo.com/show/312259/github.svg"/>
 
 
 ## Documentos
-Em desenvolvimento
+[Visualizar Documentação em PDF](https://github.com/mborges007/ssu/blob/main/Documenta%C3%A7%C3%A3o/Especifica%C3%A7%C3%A3o%20de%20Requisitos%20de%20Software_v3.pdf)
+
+
+
 
 ## Integrantes do Projeto
 - [Beatriz Machado de Oliveira](https://github.com/beamclive)
